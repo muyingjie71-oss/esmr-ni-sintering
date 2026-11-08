@@ -1,0 +1,17 @@
+{
+ "q": [
+  0.20701263647427476,
+  0.18295143925575155,
+  0.15937726417134473,
+  0.14090815282404193,
+  0.12055634985174858,
+  0.10856838195181531,
+  0.08062577547102316,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "J_pp": 0.18751235302272562,
+ "P_fresh_constant_production_W": 3372.1945870476657,
+ "note": "Optimized zone shares Z1-Z10 (Fig. 3a); J on the main grid, percentage points; power at which the fresh bed under this profile reaches the conversion of the fresh bed under uniform heating at 3.52 kW"
+}

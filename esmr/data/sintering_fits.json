@@ -1,0 +1,23 @@
+{
+ "published_slopes": {
+  "low": {
+   "E_kJ_mol": 142.0,
+   "lnA_rate_per_h": 19.18614211744622
+  },
+  "high": {
+   "E_kJ_mol": 410.0,
+   "lnA_rate_per_h": 56.14414472007664
+  }
+ },
+ "free_slopes": {
+  "low": {
+   "E_kJ_mol": 144.50012919847984,
+   "lnA_rate_per_h": 19.56073006953791
+  },
+  "high": {
+   "E_kJ_mol": 427.8009583951582,
+   "lnA_rate_per_h": 58.458644645598774
+  }
+ },
+ "note": "Arrhenius fits ln(dx/dt) = lnA - E/(R T), per hour, to the 700 h data of Sehested et al. (2004), catalyst No. 1, below and above the switch temperature"
+}

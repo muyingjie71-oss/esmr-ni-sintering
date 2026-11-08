@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "esmr-ni-sintering: electrified steam methane reformer tube with Ni sintering"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-11-08
+doi: 10.5281/zenodo.24056436
+repository-code: "https://github.com/muyingjie71-oss/esmr-ni-sintering"
+authors:
+  - family-names: Liu
+    given-names: Congchao
+    affiliation: "East China University of Science and Technology"
+  - family-names: Mu
+    given-names: Yingjie
+    affiliation: "Meiji University"
+  - family-names: Wang
+    given-names: Hongshuo
+    affiliation: "East China University of Science and Technology"
+preferred-citation:
+  type: article
+  title: "Stopping the heating before the outlet makes electrified reformers tolerant of catalyst ageing"
+  authors:
+    - family-names: Liu
+      given-names: Congchao
+    - family-names: Mu
+      given-names: Yingjie
+    - family-names: Wang
+      given-names: Hongshuo

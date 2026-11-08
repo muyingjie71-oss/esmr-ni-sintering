@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "esmr-ni-sintering"
+version = "1.0.0"
+description = "Electrified steam methane reformer tube with Ni sintering: reactor model, ageing and optimization scripts"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0", "scipy>=1.13", "jax>=0.4.30"]
+
+[tool.setuptools]
+packages = ["esmr"]
+
+[tool.setuptools.package-data]
+esmr = ["data/*.json", "data/initial_state/*"]
